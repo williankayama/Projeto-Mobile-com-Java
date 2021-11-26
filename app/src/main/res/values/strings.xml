@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Royal Plaza APP</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Quartos</string>
+    <string name="title_notifications">Serviços</string>
+</resources>
